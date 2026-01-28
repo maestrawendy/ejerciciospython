@@ -1,4 +1,5 @@
-cvar=10
+
+var=10
 var_dos=20        #SNAKE CASE SYNTAX
 varTres=30        #CAMEL CASE SYNTAX   -->JavaScript
 var4=None
